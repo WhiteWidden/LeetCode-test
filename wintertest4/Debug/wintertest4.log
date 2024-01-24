@@ -1,0 +1,4 @@
+﻿  wintertest4.cpp
+D:\高级语言程序设计2 bjk\wintertest4\wintertest4.cpp(16,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\高级语言程序设计2 bjk\wintertest4\wintertest4.cpp(44,27): warning C4018: “<”: 有符号/无符号不匹配
+  wintertest4.vcxproj -> D:\高级语言程序设计2 bjk\wintertest4\Debug\wintertest4.exe
