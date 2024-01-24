@@ -1,0 +1,11 @@
+﻿  wintertest2.cpp
+D:\高级语言程序设计2 bjk\wintertest2\wintertest2.cpp(20,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\高级语言程序设计2 bjk\wintertest2\wintertest2.cpp(24,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\高级语言程序设计2 bjk\wintertest2\wintertest2.cpp(26,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\高级语言程序设计2 bjk\wintertest2\wintertest2.cpp(34,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\高级语言程序设计2 bjk\wintertest2\wintertest2.cpp(36,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\高级语言程序设计2 bjk\wintertest2\wintertest2.cpp(41,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\高级语言程序设计2 bjk\wintertest2\wintertest2.cpp(43,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\高级语言程序设计2 bjk\wintertest2\wintertest2.cpp(48,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\高级语言程序设计2 bjk\wintertest2\wintertest2.cpp(50,27): warning C4018: “<”: 有符号/无符号不匹配
+  wintertest2.vcxproj -> D:\高级语言程序设计2 bjk\wintertest2\Debug\wintertest2.exe
