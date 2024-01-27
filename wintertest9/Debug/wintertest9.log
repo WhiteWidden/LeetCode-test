@@ -1,0 +1,4 @@
+﻿  wintertest9.cpp
+D:\高级语言程序设计2 bjk\wintertest9\wintertest9.cpp(12,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\高级语言程序设计2 bjk\wintertest9\wintertest9.cpp(29,27): warning C4018: “<”: 有符号/无符号不匹配
+  wintertest9.vcxproj -> D:\高级语言程序设计2 bjk\wintertest9\Debug\wintertest9.exe
