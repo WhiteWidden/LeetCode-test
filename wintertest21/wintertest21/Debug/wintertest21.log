@@ -1,0 +1,4 @@
+﻿  wintertest21.cpp
+D:\高级语言程序设计2 bjk\wintertest21\wintertest21.cpp(66,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\高级语言程序设计2 bjk\wintertest21\wintertest21.cpp(74,17): warning C4018: “<”: 有符号/无符号不匹配
+  wintertest21.vcxproj -> D:\高级语言程序设计2 bjk\wintertest21\Debug\wintertest21.exe
