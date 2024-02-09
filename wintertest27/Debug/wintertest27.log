@@ -1,0 +1,3 @@
+﻿  wintertest27.cpp
+D:\高级语言程序设计2 bjk\wintertest27\wintertest27.cpp(15,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  wintertest27.vcxproj -> D:\高级语言程序设计2 bjk\wintertest27\Debug\wintertest27.exe
